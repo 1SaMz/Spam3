@@ -8,7 +8,7 @@ client.on('ready', () => {
 
 client.on('ready', async() => {
 var server = "475418915321806851"; // 
-var channel = "509318331732590592";//
+var channel = "509110282237378569";//
     setInterval(()=>{
     client.guilds.get(server).channels.get(channel).send('**-- Lucas - lucas - Lucas - Lucas - Lucas - Lucas - Lucas - Lucas - Lucas --**')
     },305);
